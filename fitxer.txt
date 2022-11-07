@@ -1,2 +1,6 @@
 aaaaa
-bbbbb
+<<<<<<< HEAD
+=======
+ccccc
+ddddd
+>>>>>>> branca1
